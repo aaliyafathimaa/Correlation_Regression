@@ -30,8 +30,10 @@ REGISTER NO: 23012998
 ```
 
 
-# Result:
+# output:
 ![image](https://github.com/aaliyafathimaa/Correlation_Regression/assets/154801069/08db3b1c-8559-4549-95b8-2ecd6c986afa)
 
 
-# Output 
+# result:
+The Correlation and regression for data analysis of objects from feeder using probability distribution are calculated.
+
